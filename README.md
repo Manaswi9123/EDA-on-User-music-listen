@@ -49,15 +49,12 @@ To prepare the data for potential future Machine Learning models:
     ```bash
     git clone [https://github.com/Manaswi9123/Python-DataScience-Fundamentals.git](https://github.com/Manaswi9123/Python-DataScience-Fundamentals.git)
     ```
-2.  **Navigate to the project folder:**
-    ```bash
-    cd Python-DataScience-Fundamentals
-    ```
-3.  **Install the required libraries:**
+
+2.  **Install the required libraries:**
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
     ```
-4.  **Open the Notebook:**
+3.  **Open the Notebook:**
     Launch Jupyter Notebook or VS Code and open `Music Listen.ipynb`.
 
 ---
